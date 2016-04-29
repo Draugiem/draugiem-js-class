@@ -1,0 +1,1 @@
+# draugiem-js-class
